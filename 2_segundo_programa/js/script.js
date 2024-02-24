@@ -1,0 +1,1 @@
+console.log("Também podemos inserir o javascript no body mais com link externo")

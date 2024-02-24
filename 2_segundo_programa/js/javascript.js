@@ -1,0 +1,1 @@
+console.log("Insere o javascript no index.")
