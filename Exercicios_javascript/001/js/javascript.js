@@ -18,3 +18,5 @@ if(n >= 5){
     console.log("A nota é: " + n)
 }
 
+console.log("Fim do exercicio na prática...")
+
