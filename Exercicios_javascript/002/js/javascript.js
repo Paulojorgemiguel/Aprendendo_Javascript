@@ -46,3 +46,4 @@ let f = false;
 console.log(f)
 console.log(typeof f)
 
+console.log("Fim do exercicio na prática...")
